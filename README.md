@@ -1,5 +1,5 @@
 # The_Battle_of_the_Neighborhoods
-Utilizing the Foursquare API to analyze trends in the Toronto area. With the insight gained from this we will be able to advise for or against an investor setting up shop in this locaiton.
+Utilizing the Foursquare API to analyze trends in the Toronto area. With the insight gained from this we will be able to advise for or against an investor setting up shop in this location.
 
 Capstone Project - The Battle of Neighborhoods
 
